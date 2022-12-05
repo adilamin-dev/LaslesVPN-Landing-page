@@ -50,6 +50,13 @@ p{
     height: 760px;
 }
 
+/* .partner-company{
+    height: 60px;
+} */
+.partner-company img{
+    width: 180px;
+}
+
 /* ---------------- Bootstrap Overwite ------------- */
 :root{
     --bs-body-color: #4F5665;
